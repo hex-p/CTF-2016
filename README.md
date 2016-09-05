@@ -3,5 +3,5 @@
 Dev_null team
 
 Our solutions for Capture The Flag challenges.
-There are some write-up too.
+There are some write-ups too.
 
