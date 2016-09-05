@@ -38,7 +38,7 @@ while compteur < 30:
 		palindrome = sorted(chaine, key=lambda k: random.random()) #Generate random phrase with all words
 		joined_pal = ''.join(palindrome)
 		if joined_pal == ''.join(reversed(joined_pal)):
-			i = 1	#If the string could be read verse/reverse so this is a palindrome
+			i = 1	#If the string could be read verse/reverse : this is a palindrome !
 
 	print ("Send : " +' '.join(palindrome))
 	p = ' '.join(palindrome)+"\n"
